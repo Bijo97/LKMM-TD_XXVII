@@ -1,0 +1,72 @@
+
+
+.ErcSysheader, #ErcSysheader-bg, .ErcSyslayout-cell, .ErcSyslayout-wrapper, .ErcSysfooter, .ErcSysnav, #ErcSyshmenu-bg, .ErcSyssheet,
+.clearfix {
+   zoom: expression(this.runtimeStyle.zoom="1", this.appendChild(document.createElement("br")).className="cleared");
+}
+
+.ErcSystextblock > div {
+   display: block;
+   line-height: normal;
+   zoom: 1;
+}
+
+.ErcSyscontent-layout, .ErcSyscontent-layout-row, .ErcSyslayout-cell 
+{
+   display: block;
+   zoom: 1;
+}
+.ErcSyslayout-cell
+{
+   position:relative;
+   float: left;
+   clear: right;
+}
+
+input[type="text"]
+{
+   margin:0 0 0 -3px;
+   zoom:expression(runtimeStyle.zoom = 1, parentNode.insertBefore(document.createElement('div'), this).appendChild(this));
+}
+
+* html input[type="text"]
+{
+   margin :0;
+}
+
+form.ErcSyssearch>input[type="text"]
+{
+   margin:0 0 0 -3px;
+   zoom:expression(runtimeStyle.zoom = 1, parentNode.insertBefore(document.createElement('div'), this).appendChild(this));
+}
+
+form.ErcSyssearch div>input[type="text"]
+{
+   width: 100%;
+}
+
+* html form.ErcSyssearch>input[type="text"] 
+{
+   margin :0;
+}
+
+.ErcSyspostheadericons span{
+   zoom: 1;
+}
+.ErcSyspostcontent {
+   height: 1%;
+}
+
+.close-alt, .arrow-right-alt, .arrow-left-alt {
+   display: block !important;
+}
+.cw, .ccw {
+   display: none !important;
+}
+
+.ErcSyscontent 
+{
+   width: auto;
+   float:none;
+}
+

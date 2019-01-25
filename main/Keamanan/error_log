@@ -1,0 +1,4 @@
+[18-Jan-2017 12:54:50 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/main/Keamanan/keamanan.php on line 219
+[18-Jan-2017 12:54:50 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/main/Keamanan/keamanan.php on line 219
+[18-Jan-2017 12:54:50 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/main/Keamanan/keamanan.php on line 221
+[18-Jan-2017 13:09:02 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/main/Keamanan/keamanan.php on line 226

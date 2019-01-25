@@ -1,0 +1,74 @@
+/* Global Styles 
+   Created by Dimasdanz
+*/
+
+.form-group.required > label:after { 
+   content:"*";
+   color:red;
+}
+
+.linked {color:#136090;}
+a.linked, a.linked:link, a.linked:visited, a.linked:active {color:#136090; text-decoration:none;}
+a.linked:hover {text-decoration:underline;}
+
+/* Timepicker */
+.ui-timepicker-div .ui-widget-header { margin-bottom: 8px; }
+.ui-timepicker-div dl { text-align: left; }
+.ui-timepicker-div dl dt { float: left; clear:left; padding: 0 0 0 5px; }
+.ui-timepicker-div dl dd { margin: 0 10px 10px 45%; }
+.ui-timepicker-div td { font-size: 90%; }
+.ui-tpicker-grid-label { background: none; border: none; margin: 0; padding: 0; }
+
+.ui-timepicker-rtl{ direction: rtl; }
+.ui-timepicker-rtl dl { text-align: right; padding: 0 5px 0 0; }
+.ui-timepicker-rtl dl dt{ float: right; clear: right; }
+.ui-timepicker-rtl dl dd { margin: 0 45% 10px 10px; }
+
+.no-margin{ margin: 0 !important; }
+.no-padding{ padding: 0 !important; }
+.text-bold{ font-weight: bold !important; }
+
+.editable-guarantee {
+    display: block;
+    margin-bottom: 5px;  
+}
+.editable-guarantee span {
+    display: block;
+}
+
+.nav-pills.nav-sm>li>a{
+	padding: 5px 10px;
+	font-size: 12px;
+	line-height: 1.5;
+	border-radius: 3px;
+}
+
+.star-fav {
+  color: #F7811A;
+  margin-bottom: 5px;
+  display: inline-block;
+}
+
+.wordwrap {
+  word-break: break-all;
+}
+
+.dataTables_wrapper .dataTables_processing {
+  position:absolute;
+  top:50%;
+  left:50%;
+  width:100%;
+  height:40px;
+  margin-left:-50%;
+  margin-top:-25px;
+  padding-top:20px;
+  text-align:center;
+  font-size:1.2em;
+  background-color:white;
+  background:-webkit-gradient(linear, left top, right top, color-stop(0%, rgba(255,255,255,0)), color-stop(25%, rgba(255,255,255,0.9)), color-stop(75%, rgba(255,255,255,0.9)), color-stop(100%, rgba(255,255,255,0)));
+  background:-webkit-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,0.9) 25%, rgba(255,255,255,0.9) 75%, rgba(255,255,255,0) 100%);
+  background:-moz-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,0.9) 25%, rgba(255,255,255,0.9) 75%, rgba(255,255,255,0) 100%);
+  background:-ms-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,0.9) 25%, rgba(255,255,255,0.9) 75%, rgba(255,255,255,0) 100%);
+  background:-o-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,0.9) 25%, rgba(255,255,255,0.9) 75%, rgba(255,255,255,0) 100%);
+  background:linear-gradient(to right, rgba(255,255,255,0) 0%, rgba(255,255,255,0.9) 25%, rgba(255,255,255,0.9) 75%, rgba(255,255,255,0) 100%)
+}

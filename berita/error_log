@@ -1,0 +1,15 @@
+[26-Dec-2016 14:08:29 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lkmmtd/public_html/beta/berita/koneksi.php on line 7
+[26-Dec-2016 14:10:13 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/lkmmtd/public_html/beta/berita/indexberita.php on line 3
+[26-Dec-2016 14:11:12 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'lkmmtd-petra.ac.id' (1) in /home/lkmmtd/public_html/beta/berita/indexberita.php on line 3
+[26-Dec-2016 14:51:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/beta/berita/list_berita.php on line 22
+[26-Dec-2016 14:51:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/beta/berita/form_b.php on line 6
+[26-Dec-2016 14:54:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/beta/berita/form_b.php on line 6
+[26-Dec-2016 14:55:15 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/beta/berita/form_b.php on line 6
+[26-Dec-2016 14:56:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/beta/berita/list_berita.php on line 22
+[26-Dec-2016 15:00:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/beta/berita/list_berita.php on line 22
+[26-Dec-2016 15:02:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/beta/berita/form_b.php on line 37
+[26-Dec-2016 15:04:34 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/beta/berita/form_b.php on line 6
+[26-Dec-2016 15:28:54 Asia/Jakarta] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/lkmmtd/public_html/beta/berita/form_b.php on line 6
+[26-Dec-2016 15:28:54 Asia/Jakarta] PHP Warning:  mysql_query() expects parameter 2 to be resource, string given in /home/lkmmtd/public_html/beta/berita/form_b.php on line 10
+[26-Dec-2016 16:10:25 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/lkmmtd/public_html/beta/berita/form_b.php on line 10
+[26-Dec-2016 16:11:54 Asia/Jakarta] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/lkmmtd/public_html/beta/berita/form_b.php on line 10

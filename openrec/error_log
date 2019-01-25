@@ -1,0 +1,186 @@
+[11-Feb-2017 19:04:07 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/db_config.php on line 7
+[11-Feb-2017 19:04:07 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/db_config.php on line 7
+[11-Feb-2017 19:04:07 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/cetak.php on line 11
+[11-Feb-2017 19:04:07 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/openrec/cetak.php on line 11
+[11-Feb-2017 19:04:07 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 12
+[11-Feb-2017 19:04:07 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/cetak.php on line 124
+[11-Feb-2017 19:04:07 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/openrec/cetak.php on line 124
+[11-Feb-2017 19:04:07 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 125
+[11-Feb-2017 19:04:08 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 19:04:10 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/db_config.php on line 7
+[11-Feb-2017 19:04:10 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/db_config.php on line 7
+[11-Feb-2017 19:04:10 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/cetak.php on line 11
+[11-Feb-2017 19:04:10 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/openrec/cetak.php on line 11
+[11-Feb-2017 19:04:10 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 12
+[11-Feb-2017 19:04:10 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/cetak.php on line 124
+[11-Feb-2017 19:04:10 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/openrec/cetak.php on line 124
+[11-Feb-2017 19:04:10 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 125
+[11-Feb-2017 19:04:10 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 19:04:10 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/db_config.php on line 7
+[11-Feb-2017 19:04:10 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/db_config.php on line 7
+[11-Feb-2017 19:04:10 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/cetak.php on line 11
+[11-Feb-2017 19:04:10 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/openrec/cetak.php on line 11
+[11-Feb-2017 19:04:10 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 12
+[11-Feb-2017 19:04:10 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/cetak.php on line 124
+[11-Feb-2017 19:04:10 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/openrec/cetak.php on line 124
+[11-Feb-2017 19:04:10 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 125
+[11-Feb-2017 19:04:11 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 19:08:20 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/db_config.php on line 7
+[11-Feb-2017 19:08:20 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/db_config.php on line 7
+[11-Feb-2017 19:08:20 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/cetak.php on line 11
+[11-Feb-2017 19:08:20 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/openrec/cetak.php on line 11
+[11-Feb-2017 19:08:20 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 12
+[11-Feb-2017 19:08:20 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/cetak.php on line 124
+[11-Feb-2017 19:08:20 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/openrec/cetak.php on line 124
+[11-Feb-2017 19:08:20 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 125
+[11-Feb-2017 19:08:20 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 20:52:10 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/db_config.php on line 7
+[11-Feb-2017 20:52:10 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/db_config.php on line 7
+[11-Feb-2017 20:52:10 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/cetak.php on line 11
+[11-Feb-2017 20:52:10 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/openrec/cetak.php on line 11
+[11-Feb-2017 20:52:10 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 12
+[11-Feb-2017 20:52:10 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/cetak.php on line 124
+[11-Feb-2017 20:52:10 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/openrec/cetak.php on line 124
+[11-Feb-2017 20:52:10 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 125
+[11-Feb-2017 20:52:11 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 20:56:00 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/send_reg.php on line 26
+[11-Feb-2017 20:56:00 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/openrec/send_reg.php on line 26
+[11-Feb-2017 20:57:04 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/send_reg.php on line 26
+[11-Feb-2017 20:57:04 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/openrec/send_reg.php on line 26
+[11-Feb-2017 21:08:25 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lkmmtd/public_html/openrec/send_reg.php:8) in /home/lkmmtd/public_html/openrec/send_reg.php on line 32
+[11-Feb-2017 21:09:43 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lkmmtd/public_html/openrec/send_reg.php:8) in /home/lkmmtd/public_html/openrec/send_reg.php on line 31
+[11-Feb-2017 21:10:33 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lkmmtd/public_html/openrec/send_reg.php:8) in /home/lkmmtd/public_html/openrec/send_reg.php on line 31
+[11-Feb-2017 21:10:58 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lkmmtd/public_html/openrec/send_reg.php:8) in /home/lkmmtd/public_html/openrec/send_reg.php on line 31
+[11-Feb-2017 21:12:39 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:12:39 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 126
+[11-Feb-2017 21:12:39 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:12:49 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:12:49 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 126
+[11-Feb-2017 21:12:50 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:12:54 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:12:54 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 126
+[11-Feb-2017 21:12:54 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:12:55 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:12:55 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 126
+[11-Feb-2017 21:12:55 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:13:33 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:13:33 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 126
+[11-Feb-2017 21:13:34 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:13:44 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:13:44 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 126
+[11-Feb-2017 21:13:44 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:13:44 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:13:44 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 126
+[11-Feb-2017 21:13:45 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:14:08 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:14:08 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:14:09 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:14:10 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:14:10 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:14:10 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:14:15 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:14:15 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:16:01 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:16:01 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:16:04 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:16:05 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:16:14 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:16:14 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:17:15 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:17:15 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:17:16 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:17:17 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:17:17 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:17:17 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:17:44 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:17:44 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:17:45 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:17:46 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:17:46 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:17:46 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:23:44 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:23:45 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:23:48 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:23:48 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:24:24 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:24:25 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:24:27 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:24:27 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:24:27 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:24:28 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:25:26 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:25:27 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:25:29 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:25:30 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:25:30 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:25:30 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:25:46 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:25:47 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:25:55 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:25:56 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:25:56 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:25:56 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:26:18 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:26:19 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:26:19 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:26:19 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:26:19 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:26:20 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[11-Feb-2017 21:26:23 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[11-Feb-2017 21:26:23 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[21-Feb-2017 16:07:19 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lkmmtd/public_html/openrec/session.php:28) in /home/lkmmtd/public_html/openrec/session.php on line 29
+[22-Feb-2017 15:13:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lkmmtd/public_html/openrec/session.php:28) in /home/lkmmtd/public_html/openrec/session.php on line 29
+[22-Feb-2017 15:14:19 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lkmmtd/public_html/openrec/session.php:13) in /home/lkmmtd/public_html/openrec/session.php on line 31
+[22-Feb-2017 15:14:57 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lkmmtd/public_html/openrec/session.php:13) in /home/lkmmtd/public_html/openrec/session.php on line 32
+[22-Feb-2017 15:15:47 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lkmmtd/public_html/openrec/session.php:13) in /home/lkmmtd/public_html/openrec/session.php on line 40
+[22-Feb-2017 15:25:03 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[22-Feb-2017 15:25:04 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[22-Feb-2017 15:25:56 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[22-Feb-2017 15:25:56 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[22-Feb-2017 15:26:07 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[22-Feb-2017 15:26:07 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[23-Feb-2017 11:05:41 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[23-Feb-2017 11:05:41 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[23-Feb-2017 11:33:28 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:33:28 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:33:28 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:33:58 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:33:58 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:33:58 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:35:24 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:35:24 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:35:24 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:43:40 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:43:40 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:43:40 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:51:35 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:51:35 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:51:35 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:52:21 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:52:21 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:52:21 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:52:41 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:52:41 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:52:41 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:52:48 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:52:48 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:52:48 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:53:11 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:53:11 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 11:53:11 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/page=register.php on line 9
+[23-Feb-2017 12:21:13 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[23-Feb-2017 12:21:14 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[23-Feb-2017 12:21:16 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[23-Feb-2017 12:21:16 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[23-Feb-2017 12:36:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/lkmmtd/public_html/openrec/page=register.php on line 193
+[23-Feb-2017 12:37:50 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[23-Feb-2017 12:37:50 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[23-Feb-2017 12:37:52 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[23-Feb-2017 12:37:52 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[06-Apr-2017 20:57:27 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[06-Apr-2017 20:57:28 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[06-Apr-2017 20:57:30 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/openrec/cetak.php on line 13
+[06-Apr-2017 20:57:31 Asia/Jakarta] PHP Warning:  opendir(/home/lkmmtd/public_html/openrec/!eric/tmp): failed to open dir: No such file or directory in /home/lkmmtd/public_html/openrec/!eric/mpdf.php on line 7502
+[06-Apr-2017 20:57:48 Asia/Jakarta] PHP Warning:  imagettftext(): Could not find/open font in /home/lkmmtd/public_html/openrec/coba.php on line 19
+[06-Apr-2017 20:57:48 Asia/Jakarta] PHP Warning:  imagettftext(): Could not find/open font in /home/lkmmtd/public_html/openrec/coba.php on line 21
+[06-Apr-2017 20:57:48 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lkmmtd/public_html/openrec/coba.php:19) in /home/lkmmtd/public_html/openrec/coba.php on line 23

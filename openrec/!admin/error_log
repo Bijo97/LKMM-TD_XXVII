@@ -1,0 +1,1 @@
+[30-Mar-2014 00:18:02 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/p3kmaba/public_html/!go/!admin/db.php on line 7
